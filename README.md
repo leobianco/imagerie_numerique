@@ -1,5 +1,7 @@
 # Imagerie Numérique
 
+Students: Bianca MARIN MORENO, Leonardo MARTINS BIANCO.
+
 ## Introduction
 
 This repo contains our code for the final project of the course "Imagerie Numérique" at the M2 MVA. Beyond our created and modified code, we provide the folder structure with which the user can perform his own experiments of texture synthesis, style transfer, and variation of the parameter of content strength.
