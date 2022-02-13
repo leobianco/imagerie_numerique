@@ -14,6 +14,8 @@ We **do not** provide here the outputs, as they are present in the report attach
 
 ### Folder structure
 
+We indicate below which files contain original code.
+
 ```python
 # root/
 # |- Styles/
